@@ -44,7 +44,9 @@ How did you test to ensure your code was functional? Why is this process importa
 
 Considering the full app design and development process, from initial planning to finalization, where did you have to innovate to overcome a challenge?
 
-    The Java code was the toughest for me. I don't have much experience with it yet. While the Zybooks exercises gave us a lot to build off of, the official java site       was invaluable. I had to start over from my project 2 design. It was close to it but the xml was messy and I wanted a different look. 
+    The Java code was the toughest for me. I don't have much experience with it yet. While the Zybooks exercises gave 
+    us a lot to build off of, the official java site was invaluable. I had to start over from my project 2 design. 
+    It was close to it but the xml was messy and I wanted a different look. 
     
 
 In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
