@@ -24,8 +24,9 @@ Briefly summarize the requirements and goals of the app you developed. What user
 
 What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
     
-     I had a login screen. There was a register screen for first time visitors. The main Home screen was the list of items 
-     in a grid. There is a pop up screen for adding an item as well as one for editing an item. Deleete and SMS notifications
+     I had a login screen. There was a register screen for first time visitors. The main Home screen was the list of 
+     items in a grid. There is a pop up screen for adding an item as well as one for editing an item. Deleete and 
+     SMS notifications
      options were on the bottom of the inventory screen. These included pop up screens to confirm or deny. I wanted it to be as 
      easy as possible for the user to navigate. I feel they were successful because it worked. It delivered the information in
      a clean manner.
