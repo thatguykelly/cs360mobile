@@ -25,12 +25,28 @@ Briefly summarize the requirements and goals of the app you developed. What user
 What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
     
      I had a login screen. There was a register screen for first time visitors. The main Home screen was the list of items 
-     in a grid. There is a pop up screen for adding an item as well as one for editing an item. 
+     in a grid. There is a pop up screen for adding an item as well as one for editing an item. Deleete and SMS notifications
+     options were on the bottom of the inventory screen. These included pop up screens to confirm or deny. I wanted it to be as 
+     easy as possible for the user to navigate. I feel they were successful because it worked. It delivered the information in
+     a clean manner.
 
 How did you approach the process of coding your app? What techniques or strategies did you use? How could those be applied in the future?
 
+    I had to research much of the code from our Zybooks textbook. I liked the idea of seaparating some of the code into separate 
+    Java classes. I used trial and error frequently. This was a good strategy for me since I'm not very familiar with Android
+    Studio. I feel that the code trees will be extremely useful in the future and I plan on referencing them on more projects.
+
 How did you test to ensure your code was functional? Why is this process important and what did it reveal?
+
+    I used the testing features within Android Studio. Once I had problems, I would diagnose and figure them out. Needless to say,
+    I did have alot of problems as I worked. It's important because it was able to show me where pieces of the puzzle dont fit. It
+    taught me how to trouble shoot and gave me insights regarding how Android Studio works.
 
 Considering the full app design and development process, from initial planning to finalization, where did you have to innovate to overcome a challenge?
 
+    The Java code was the toughest for me. I don't have much experience with it yet. While the Zybooks exercises gave us a lot to build off of, the official java site       was invaluable. I had to start over from my project 2 design. It was close to it but the xml was messy and I wanted a different look. 
+    
+
 In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
+
+    I believe right now I'm efficient in the UI design and building with xml. I really enjoy this aspect.
